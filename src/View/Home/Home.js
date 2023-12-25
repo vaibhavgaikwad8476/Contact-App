@@ -7,9 +7,9 @@ export default function Home() {
      
     const [contacts , setContacts] = useState([
         {
-            name:'Rutuja Gaikwad',
+            name:'Ranjit Gaikwad',
         mobile: '9158569290',
-        email:'gaikwadrutu@gmail.com'
+        email:'gaikwadranjit@gmail.com'
         },
         {
             name:'Sakshi Bodakhe',
@@ -17,9 +17,9 @@ export default function Home() {
             email:'sakshi83@gmail.com'
         },
         {
-            name:'Swara Gaikwad',
+            name:'Vaibhav Gaikwad',
             mobile: '9122608934',
-            email:'gaikwadswara@gmail.com'
+            email:'gaikwadvaibhav@gmail.com'
         },
     ]);
     const [name , setName] = useState('')
